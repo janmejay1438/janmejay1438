@@ -16,6 +16,3 @@ BIT Mesra | BTECH AI ML 29’ | GSSoC 26’ | C/C++, HTML+CSS, MongoDB, DSA | 1x
 ![](https://github-profile-trophy.vercel.app/?username=janmejay1438&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=janmejay1438&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
