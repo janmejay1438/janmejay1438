@@ -1,5 +1,5 @@
 # 💫 About Me:
-Doing my Bachelors in Technology from Birla Institute of Technology, Mesra in AI ML 29'.
+BIT Mesra | BTECH AI ML 29’ | GSSoC 26’ | C/C++, HTML+CSS, MongoDB, DSA | 1x Hackathon Winner | AI ML Enthusiast.
 
 
 ## 🌐 Socials:
